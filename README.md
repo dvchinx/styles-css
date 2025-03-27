@@ -17,7 +17,7 @@ Puedes visualizar el proyecto en funcionamiento a través del siguiente enlace: 
 El proyecto está organizado de la siguiente manera:
 
 - `index.html`: Archivo principal que estructura el contenido de la página.
-- `styles/`: Carpeta que contiene las hojas de estilo CSS utilizadas para el diseño y la presentación de la página.
+- `styles.css`: Archivo que contiene las hojas de estilo CSS utilizadas para el diseño y la presentación de la página.
 - `imgs/`: Carpeta que almacena las imágenes y recursos gráficos empleados en la página.
 
 ## Tecnologías Utilizadas
